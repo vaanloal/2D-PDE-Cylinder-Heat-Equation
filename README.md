@@ -13,6 +13,6 @@ At the centerline of cylinde the model becomes the next equation. At r = 0, beca
 
 ![dimensionalized_model_at_center.png](/images/dimensionalized_model_at_center.png)
 
-The Bounday Conditions are given by the following equations:
+The Initial and Bounday Conditions are given by the following equations:
 
 ![dimensionalized_model_BC.png](/images/dimensionalized_model_BC.png)
